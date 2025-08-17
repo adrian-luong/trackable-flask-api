@@ -1,7 +1,7 @@
 # Trackable Flask API
 
 A demo website to generate a selected amount of strings of desirable lengths, using a trackable API with contexts from a simple Flask server.
-It is associated with this [tutorial]():
+It is associated with this [tutorial](https://dev.to/adrianluong/trackable-flask-api-using-eventsource-365f):
 
 Follow these steps to set it up in your IDE's terminal:
 
